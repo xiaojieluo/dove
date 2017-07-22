@@ -1,0 +1,16 @@
+aiofiles==0.3.1
+certifi==2017.4.17
+chardet==3.0.4
+-e git+git@github.com:xiaojieluo/dove.git@6591e7707af80d75b2d80634005230a814ce5678#egg=dove
+httptools==0.0.9
+idna==2.5
+pkginfo==1.4.1
+requests==2.18.1
+requests-toolbelt==0.8.0
+sanic==0.5.4
+tqdm==4.14.0
+twine==1.9.1
+ujson==1.35
+urllib3==1.21.1
+uvloop==0.8.0
+websockets==3.3
